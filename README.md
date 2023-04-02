@@ -1,3 +1,5 @@
+## Other repository for part 11 found in https://github.com/joooda/fullstackopen2022_part11_phonebook
+
 # Full Stack open CI/CD
 
 This repository is used for the CI/CD module of the Full stack open course
